@@ -1,0 +1,24 @@
+Syntax parsers - A program that reads your code and determines what it does and if its grammar is valid.
+
+Lexical environments - Where something sits physically in the code you write.
+
+Execution contexts - A wrapper to help manage the code that is running. (Code runs in execution context.)
+
+Name/Value Pairs - A name which maps to a unique value.
+
+Object - Collection of name value pairs.
+
+Single Threaded - One command at a time.
+
+Synchronous - One at a time and in order the code appears, in javascript only one thing is happenning at a time.
+
+Invocation - Running a function, in javascript by using parenthesis ()
+
+Excecution Stack - Every time a function is invoked, it is put on top of the execution stack, the function always on top of the stack is executed and popped off
+
+Variable Environment - Where a variable resides.
+
+Scope - Where a variable is available in your code, and if it's truly the same variable or a new copy.
+
+Asynchronous - More than one at a time.
+
